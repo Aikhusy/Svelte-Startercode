@@ -4,9 +4,13 @@
     
 </p>
 <UserCard email="aikhusy@gmail.com" name="aikhusy" />
+
+<Counter/>
+
 <script module>
 
     import UserCard from '../../routes/card/UserCard.svelte';
+    import Counter from '../../routes/components/Counter.svelte';
 	let total = 0;
     
 </script>
