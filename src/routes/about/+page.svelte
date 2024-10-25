@@ -1,7 +1,14 @@
 <h1>abouts</h1>
-
+<p>
+    component dari 
+    
+</p>
+<UserCard email="aikhusy@gmail.com" name="aikhusy" />
 <script module>
+
+    import UserCard from '../../routes/card/UserCard.svelte';
 	let total = 0;
+    
 </script>
 
 <script>
