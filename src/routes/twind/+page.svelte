@@ -18,12 +18,12 @@
           cy="512"
           r="512"
           fill="url(#759c1415-0410-454c-8f7c-9a820de03641)"
-          fill-opacity="0.7"
+          fill-opacity="0.6"
         />
         <defs>
           <radialGradient id="759c1415-0410-454c-8f7c-9a820de03641">
             <stop stop-color="#7775D6" />
-            <stop offset="1" stop-color="#E935C1" />
+            <stop offset="1" stop-color="#ffff" />
           </radialGradient>
         </defs>
       </svg>
@@ -33,11 +33,11 @@
         <h2
           class="text-balance text-3xl font-semibold tracking-tight text-white sm:text-4xl"
         >
-          Boost your productivity. Start using our app today.
+          Ambaleon.
         </h2>
         <p class="mt-6 text-pretty text-lg/8 text-gray-300">
-          Ac euismod vel sit maecenas id pellentesque eu sed consectetur.
-          Malesuada adipiscing sagittis vel nulla.
+          <span>Pahlawan Kemerdekaan Indonesia.</span>
+          <span>Lahir di Ngawi 1669.</span>
         </p>
         <div
           class="mt-10 flex items-center justify-center gap-x-6 lg:justify-start"
@@ -55,10 +55,10 @@
       <div class="relative mt-16 h-80 lg:mt-8">
         <img
           class="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
-          src="https://tailwindui.com/plus/img/component-images/dark-project-app-screenshot.png"
+          src="https://i.ppy.sh/29818c899ad48746a5b7831abd7f41ba80356747/68747470733a2f2f6e616761726169612e732d756c2e65752f3730575678387642"
           alt="App screenshot"
-          width="1824"
-          height="1080"
+          width="500"
+          height="580"
         />
       </div>
     </div>
